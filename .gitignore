@@ -1,1 +1,3 @@
 config/default.hjson
+package-lock.json
+node_modules
